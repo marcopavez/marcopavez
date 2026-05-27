@@ -1,6 +1,6 @@
-# Hola, soy Marco 👋
+# ¡Hola!, soy Marco 👋
 
-Desarrollador backend con 3 años de experiencia construyendo sistemas en producción con Go.
+Soy un desarrollador backend con 3 años de experiencia construyendo sistemas en producción con Go.
 
 He trabajado en arquitecturas orientadas a eventos e integraciones con servicios externos en el dominio regulatorio y financiero chileno: emisión de documentos tributarios electrónicos (DTE via SII), firma electrónica sobre documentos empresariales, y flujos de onboarding digital con orquestación de comunicaciones. Sistemas donde la exactitud importa, los errores tienen consecuencias legales y las integraciones externas son el núcleo del problema.
 
